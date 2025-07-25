@@ -34,12 +34,8 @@ Note: This implementation uses FrozenLake-v1 from gym with is_slippery=False.
 🚀 How to Run
 Clone the repo:
 
-git clone https://github.com/yourusername/frozenlake-qlearning.git
-cd frozenlake-qlearning
-Launch the notebook:
+git clone https://github.com/ssk2706/Q-Learning-on-Deterministic-FrozenLake-Environment
 
-bash
-Copy
-Edit
+Launch the notebook:
 jupyter notebook main.ipynb
 Run cells to simulate training and visualize results.
