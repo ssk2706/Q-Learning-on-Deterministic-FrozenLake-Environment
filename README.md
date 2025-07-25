@@ -1,0 +1,2 @@
+# Q-Learning-on-Deterministic-FrozenLake-Environment
+Explores the application of the Q-learning algorithm over a deterministic 5x5 FrozenLake grid. The agent begins at top-left and must find its way to the bottom-right goal while avoiding holes that are placed immovably. Rewards are in place to encourage optimal path-following: +10 for target achievement, -5 for falling in the hole, and -1 per step.
